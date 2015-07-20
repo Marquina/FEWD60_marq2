@@ -1,3 +1,14 @@
+// EM Feedback
+
+//5 - Effort/completion
+//5 - Code cleanliness
+//5 - Overall command of material
+//5 - Leveraging skills learned (using responsive design, HTML/CSS/JS, plugins, etc..)
+// 20/20
+//Hey Marquina, this code looks great. Great job sticking with it and asking 
+//lots of questions until you figure everything out! 
+
+
 ///MIP 
 $(document).ready(function() {
   $('#submit-btn').click(function(){ 
